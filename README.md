@@ -15,3 +15,7 @@ This project implements the seam-carving technique for content-aware image resiz
 
 3. **Seam Removal**: The identified seam is removed from the image, making it narrower (or shorter, for horizontal seams) while preserving key features.
 
+
+## Acknowledgments
+
+- All credit goes to the course instructor Michael Guerzhoy
