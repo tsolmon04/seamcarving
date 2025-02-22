@@ -1,6 +1,6 @@
 # Seam-Carving Image Resizing
 
-This project is from ESC190 that implements the seam-carving technique for content-aware image resizing. Seam carving allows for resizing an image by removing vertical or horizontal seams while preserving important features like objects, textures, and boundaries. Unlike traditional methods like cropping or scaling, seam carving adapts to the content of the image, making it ideal for applications where preserving visual integrity is essential.
+This project implements the seam-carving technique for content-aware image resizing. Seam carving allows for resizing an image by removing vertical or horizontal seams while preserving important features like objects, textures, and boundaries. Unlike traditional methods like cropping or scaling, seam carving adapts to the content of the image, making it ideal for applications where preserving visual integrity is essential.
 
 ## Features
 - **Content-Aware Resizing**: Seam carving preserves important features in an image while resizing, unlike standard methods that can distort content.
@@ -15,7 +15,3 @@ This project is from ESC190 that implements the seam-carving technique for conte
 
 3. **Seam Removal**: The identified seam is removed from the image, making it narrower (or shorter, for horizontal seams) while preserving key features.
 
-
-## Acknowledgments
-
-- All credit goes to the course instructor Michael Guerzhoy
